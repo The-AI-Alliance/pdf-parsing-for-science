@@ -8,11 +8,14 @@ nav_order: 90
 
 The following people have contributed to the creation and maintenance of this project:
 
-* TODO
+* Peter Staar, IBM Research
+* Joe Olson, IBM Research
+* Dean Wampler, IBM Research
+* More to be announced soon.
 
 # How to Contribute to this Project
 
-We welcome your contributions to this project. Visit the project's [GitHub repo](https://github.com/The-AI-Alliance/pdf-parsing-for-science/){:target="repo"}, and the [open issues](https://github.com/The-AI-Alliance/pdf-parsing-for-science/issues){:target="repo"}, in particular, for areas where you might contribute.
+We welcome your contributions to this project. Visit the project's [GitHub repo](https://github.com/The-AI-Alliance/pdf-parsing-for-science/){:target="repo"}, the [discussions](https://github.com/The-AI-Alliance/pdf-parsing-for-science/discussions), and the [open issues](https://github.com/The-AI-Alliance/pdf-parsing-for-science/issues){:target="repo"}, in particular, for areas where you might contribute.
 
 # Joining the Work Group
 
