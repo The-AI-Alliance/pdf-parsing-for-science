@@ -21,7 +21,9 @@ Effective applications of AI to specialized domains, such as scientific research
 
 However, much of the world's scientific knowledge is contained in PDFs, which can be challenging to parse for automation purposes. Text extraction is not too difficult, but extracting useful information from diagrams and tables is harder.
 
-Recent advancements in tools such as [Docling](https://docling-project.github.io/docling/) have enabled automated information extraction from PDF and other document types possible as never before. Our project is building the tools to do this extraction at scale to create new domain-specific datasets, starting with datasets for scientific disciplines.
+Recent advancements in tools such as [Docling](https://docling-project.github.io/docling/){:target="docling"} have enabled automated information extraction from PDF and other document types possible as never before. Our project is building the tools to do this extraction at scale to create new domain-specific datasets, starting with datasets for scientific disciplines.
+
+These datasets will be hosted in the AI Alliance [Hugging Face organization](https://huggingface.co/aialliance){:target="hf-aia"} and they will be part of the Open Trusted Data Initiative [catalog](https://the-ai-alliance.github.io/open-trusted-data-initiative/){:target="otdi"} of datasets.
 
 Please join us! See our [contributing]({{site.baseurl}}/contributing) page for details.
 
