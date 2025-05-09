@@ -5,9 +5,9 @@ nav_order: 100
 has_children: false
 ---
 
-# About Parsing PDFs for Advancing the Use of AI in Science and The AI Alliance
+# About Parsing PDFs to Build AI Datasets for Science and The AI Alliance
 
-**Parsing PDFs for Advancing the Use of AI in Science** is a project of the [Foundation Models and Datasets](https://thealliance.ai/focus-areas/foundation-models){:target="wg"} work group in [The AI Alliance](https://thealliance.ai){:target="ai-alliance"}. 
+**Parsing PDFs to Build AI Datasets for Science** is a project of the [Foundation Models and Datasets](https://thealliance.ai/focus-areas/foundation-models){:target="wg"} work group in [The AI Alliance](https://thealliance.ai){:target="ai-alliance"}. 
 
 Please join us! See our [contributing]({{site.baseurl}}/contributing) page for details.
 

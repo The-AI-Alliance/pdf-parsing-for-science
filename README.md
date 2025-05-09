@@ -1,8 +1,8 @@
-# README for Parsing PDFs for Advancing the Use of AI in Science
+# README for Parsing PDFs to Build AI Datasets for Science
 
 [Published Documentation](https://the-ai-alliance.github.io/pdf-parsing-for-science/)
 
-This repo contains the code and documentation for the AI Alliance: Parsing PDFs for Advancing the Use of AI in Science.
+This repo contains the code and documentation for the AI Alliance: Parsing PDFs to Build AI Datasets for Science.
 
 See the [repo README](https://the-ai-alliance.github.io/pdf-parsing-for-science/) for additional details about this project.
 
