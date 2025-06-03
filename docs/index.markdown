@@ -7,11 +7,8 @@ has_children: false
 
 # Parsing PDFs to Build AI Datasets for Science
 
-[GitHub Repo](https://github.com/The-AI-Alliance/pdf-parsing-for-science){:target="repo" .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 .no-glyph}
-[The AI Alliance](https://thealliance.ai){:target="ai-alliance" .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 .no-glyph} 
-
 | **Authors**     | [Foundation Models and Datasets](https://thealliance.ai/focus-areas/foundation-models){:target="ai-alliance-wg"} (See the [Contributors]({{site.baseurl}}/contributing/#contributors)) |
-| **Last Update** | V0.1.0, 2025-05-09 |
+| **Last Update** | V0.1.1, 2025-06-03 |
 
 > **Tip:** Use the search box at the top of this page to find specific content.
 
